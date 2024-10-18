@@ -1,0 +1,7 @@
+*.o
+config.h
+patches.h
+dmenu
+stest
+
+/flexipatch-finalizer
