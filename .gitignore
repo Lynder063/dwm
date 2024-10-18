@@ -5,3 +5,26 @@ dmenu
 stest
 
 /flexipatch-finalizer
+/st
+.cache
+.local
+.mozilla
+.pki
+.vim
+.vscode-oss
+Downloads
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.dwm.log
+.gitconfig
+.fehbg
+.Xauthority
+.viminfo
+.config/Code - OSS
+.config/dconf
+.config/kitty
+.config/obs-studio
+.config/pulse
+.config/systemd
