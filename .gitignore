@@ -30,5 +30,5 @@ Downloads
 .config/systemd
 .ssh
 .config/neofetch
-go/
+.config/go/
 /.yay
