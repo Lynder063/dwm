@@ -1,5 +1,5 @@
 #!/bin/bash
-feh --bg-scale ~/dwm-finale/wallpaper.png
+feh --bg-scale ~/dwm-finale/wallpaper.jpg
 setxkbmap cz
 dwmbar &
 
