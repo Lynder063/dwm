@@ -29,3 +29,4 @@ Downloads
 .config/pulse
 .config/systemd
 .ssh
+.config/neofetch
