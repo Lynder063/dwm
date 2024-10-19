@@ -4,3 +4,8 @@ libEGL warning: DRI3: Screen seems not DRI3 capable
 MESA: error: ZINK: vkEnumeratePhysicalDevices failed (VK_ERROR_INITIALIZATION_FAILED)
 MESA: error: ZINK: failed to choose pdev
 libEGL warning: egl: failed to create dri2 screen
+[Parent 73845, Main Thread] WARNING: Failed to enumerate devices of org.freedesktop.UPower: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+: 'glib warning', file /usr/src/debug/firefox/firefox-131.0.3/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:73845): WARNING **: 06:30:11.387: Failed to enumerate devices of org.freedesktop.UPower: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+
