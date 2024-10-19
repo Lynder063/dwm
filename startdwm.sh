@@ -1,4 +1,5 @@
 #!/bin/bash
+$HOME/.screenlayout/monitors.sh &
 feh --bg-scale ~/dwm-finale/wallpaper.jpg
 setxkbmap cz
 dwmbar &
