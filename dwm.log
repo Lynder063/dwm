@@ -14,3 +14,7 @@ libEGL warning: egl: failed to create dri2 screen
 
 ** (firefox:73845): WARNING **: 06:33:51.560: Failed to enumerate devices of org.freedesktop.UPower: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
 
+
+(arandr:223740): Gdk-CRITICAL **: 06:36:23.624: gdk_atom_intern: assertion 'atom_name != NULL' failed
+
+(arandr:223740): Gdk-CRITICAL **: 06:36:23.624: gdk_atom_intern: assertion 'atom_name != NULL' failed
